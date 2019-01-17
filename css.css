@@ -60,6 +60,7 @@ button {
     transition: all 0.3;
     -moz-transition: all 0.3;
     -webkit-transition: all 0.3;
+    outline: none;
 }
 
 #message {
